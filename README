@@ -1,0 +1,17 @@
+==== Pre-processing ====
+1. Open getData.m
+2. Set "tilename" to the desired video file name
+3. Run getData.m
+
+==== Labeling ====
+1. Open labelData.m
+2. Set "tilename" to the desired video file name
+3. Run labelData.m
+   Press left and right arrow key to go forward and backward
+   Press 1~9 to label a frame
+   Press DETELE to delete a label
+
+==== Visualizing ====
+1. Open showLabel.m
+2. Set "tilename" to the desired video file name
+3. Run showLabel.m
